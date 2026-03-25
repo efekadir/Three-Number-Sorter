@@ -2,6 +2,7 @@
 This Java program takes three numerical inputs from the user and sorts them in descending order.
 
 ## Example Output
+```text
 Enter first value: 15.5
 Enter second value: 42
 Enter third value: 15.5
